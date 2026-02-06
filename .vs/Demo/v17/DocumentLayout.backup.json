@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\staffordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\staffordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\menucategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menucategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\menuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\downloads\\demo\\demo\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Models\\ViewModels.cs",
+              "RelativeToolTip": "Models\\ViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:06:52.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\StaffOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffOrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\StaffOrderController.cs",
+              "RelativeToolTip": "Controllers\\StaffOrderController.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAA3wFQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:06:09.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesReportController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\SalesReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesReportController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\SalesReportController.cs",
+              "RelativeToolTip": "Controllers\\SalesReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:06:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:06:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAmwAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAcwBwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuCategoriesController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\MenuCategoriesController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuApiController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuApiController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\MenuApiController.cs",
+              "RelativeToolTip": "Controllers\\MenuApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:36.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAkwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiagnosticsController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\DiagnosticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiagnosticsController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\DiagnosticsController.cs",
+              "RelativeToolTip": "Controllers\\DiagnosticsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AdminOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminOrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AdminOrderController.cs",
+              "RelativeToolTip": "Controllers\\AdminOrderController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAowH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:05:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:04:54.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:04:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Models\\DB.cs",
+              "RelativeDocumentMoniker": "Models\\DB.cs",
+              "ToolTip": "C:\\Users\\daich\\Downloads\\Demo\\Demo\\Models\\DB.cs",
+              "RelativeToolTip": "Models\\DB.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T06:59:03.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

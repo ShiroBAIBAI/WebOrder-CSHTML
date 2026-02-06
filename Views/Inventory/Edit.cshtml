@@ -1,0 +1,46 @@
+﻿@model Demo.Models.StockItem
+@{
+    ViewData["Title"] = (Model?.StockItemId == null ? "Create" : "Edit") + " Stock Item";
+    Layout = "_Layout";
+}
+<h2 class="mb-3">@ViewData["Title"]</h2>
+<form asp-action="@(Model?.StockItemId == null ? "Create" : "Edit")" method="post">
+    @Html.AntiForgeryToken()
+    @if (Model?.StockItemId != null)
+    {
+        <input type="hidden" asp-for="StockItemId" />
+    }
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="row g-3">
+        <div class="col-sm-4">
+            <label asp-for="Unit" class="form-label"></label>
+            <input asp-for="Unit" class="form-control" />
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="ReorderLevel" class="form-label"></label>
+            <input asp-for="ReorderLevel" class="form-control" />
+            <span asp-validation-for="ReorderLevel" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="mt-3">
+        <label asp-for="Category" class="form-label"></label>
+        <input asp-for="Category" class="form-control" />
+    </div>
+    <div class="mt-3">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+        <form asp-action="Delete" method="post" class="d-inline ms-auto"
+              onsubmit="return confirm('Delete this item? This cannot be undone.');">
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="id" value="@Model.StockItemId" />
+            <button class="btn btn-outline-danger">Delete</button>
+        </form>
+    </div>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

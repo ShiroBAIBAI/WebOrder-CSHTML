@@ -1,0 +1,74 @@
+﻿@model List<Demo.Controllers.StaffOrderVM>
+@{
+    // 只在这里读一次（Partial 不带脚本）
+    var isHistory = (bool)(ViewData["IsHistory"] ?? false);
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-secondary">No items found.</div>
+}
+else
+{
+    <div class="row g-3">
+        @foreach (var o in Model)
+        {
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="card shadow-sm h-100" data-order-id="@o.OrderId">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <div>
+                            <span class="fw-bold">Order #@o.OrderId</span>
+                            <span class="ms-2 text-muted">Placed @o.CreatedAt.ToString("HH:mm")</span>
+                        </div>
+                        <small class="text-muted">@($"{(int)o.Elapsed.TotalMinutes}m {o.Elapsed.Seconds}s")</small>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="mb-2">
+                            <strong>Table:</strong> @o.TableNo
+                            <span class="ms-3"><strong>Lines:</strong> @o.TotalItems</span>
+                            <span class="ms-3"><strong>Total Qty:</strong> @o.TotalQty</span>
+                        </div>
+
+                        <ul class="list-unstyled">
+                            @foreach (var l in o.Lines)
+                            {
+                                var colorClass = l.LineStatus switch
+                                {
+                                    "Cancelled" => "text-danger fw-semibold",
+                                    "Completed" => "text-info fw-semibold",
+                                    "InProgress" => "text-warning fw-semibold",
+                                    "Placed" => "text-secondary",
+                                    _ => "text-secondary"
+                                };
+
+                                <li class="mb-2" data-line-id="@l.OrderLineId" data-status="@l.LineStatus">
+                                    <div class="d-flex align-items-center gap-2 flex-wrap">
+
+                                        <div class="me-auto">
+                                            <strong>@l.Quantity×</strong> @l.ItemName
+                                            @if (!string.IsNullOrWhiteSpace(l.Options))
+                                            {
+                                                <small class="text-muted">(@l.Options)</small>
+                                            }
+                                            <span class="@colorClass ms-2">[@l.LineStatus]</span>
+                                        </div>
+
+                                        @if (!isHistory)
+                                        {
+                                            <div class="btn-group btn-group-sm" role="group">
+                                                <button class="btn btn-outline-warning js-line" data-to="InProgress">In Progress</button>
+                                                <button class="btn btn-outline-info js-line" data-to="Completed" data-confirm="true">Completed</button>
+                                                <button class="btn btn-outline-danger js-line" data-to="Cancelled" data-confirm="true">Cancel</button>
+                                            </div>
+                                        }
+                                    </div>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

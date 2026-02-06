@@ -1,0 +1,86 @@
+﻿@using Demo.Models
+@model Dictionary<string, CartItem>
+
+@{
+    ViewData["Title"] = "Cart";
+    decimal total = 0m;
+
+    var availMap = ViewBag.AvailMap as IDictionary<string, bool> ?? new Dictionary<string, bool>();
+    var missingSet = ViewBag.MissingSet as ISet<string> ?? new HashSet<string>();
+    bool hasUnavailable = false;
+}
+
+<h2>Cart</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Qty</th>
+            <th>Price</th>
+            <th>Subtotal</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kv in Model)
+        {
+            var ci = kv.Value;
+            var price = ci.Item.Price;             // decimal
+            var sub = price * ci.Quantity;       // decimal
+            total += sub;
+
+            bool missing = missingSet.Contains(ci.Item.MenuItemId);
+            bool inactive = (availMap.TryGetValue(ci.Item.MenuItemId, out var active) && !active);
+            bool unavailable = missing || inactive;
+            if (unavailable) hasUnavailable = true;
+            <tr class="@(unavailable ? "table-warning" : "")">
+                <td>
+                    @ci.Item.Name
+                    @if (unavailable)
+                    {
+                        <div class="text-danger small fw-semibold mt-1">This item is now unavailable. Please remove it.</div>
+                    }
+                    <div class="text-muted small">@ci.Options</div>
+                </td>
+                <td>
+                    <form method="post" asp-action="UpdateCart" class="d-flex gap-2">
+                        <input type="hidden" name="menuItemId" value="@ci.Item.MenuItemId" />
+                        <input type="number" name="qty" value="@ci.Quantity" min="0" class="form-control form-control-sm" style="width:90px" @(unavailable ? "disabled" : null) />
+                        <button class="btn btn-sm btn-outline-secondary" @(unavailable ? "disabled" : null)>Update</button>
+                    </form>
+                </td>
+                <td>RM @price.ToString("0.00")</td>
+                <td>RM @sub.ToString("0.00")</td>   
+                <td>
+                    <form method="post" asp-action="Remove">
+                        <input type="hidden" name="menuItemId" value="@ci.Item.MenuItemId" />
+                        <button class="btn btn-sm btn-outline-danger">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <th colspan="3" class="text-end">Total</th>
+            <th>RM @total.ToString("0.00")</th> 
+            <th></th>
+        </tr>
+    </tfoot>
+</table>
+
+@if (!hasUnavailable && Model.Count > 0)
+{
+    <a class="btn btn-success" asp-action="Summary">Checkout</a>
+}
+else if (Model.Count == 0)
+{
+    <div class="alert alert-info">Your cart is empty.</div>
+}
+else
+{
+    <div class="alert alert-danger">
+        Some items in your cart are unavailable. Please remove them before checkout.
+    </div>
+}

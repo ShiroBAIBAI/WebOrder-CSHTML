@@ -1,0 +1,42 @@
+﻿@model Demo.Models.StockItem
+@{
+    ViewData["Title"] = "Adjust Stock";
+    Layout = "_Layout";
+}
+<h2 class="mb-3">Adjust: @Model.Name (@Model.StockItemId)</h2>
+<div class="mb-2 text-muted">Current Quantity: <strong>@Model.Quantity</strong></div>
+
+<form asp-action="Adjust" method="post" class="card">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.StockItemId" />
+    <div class="card-body">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+
+        <div class="row g-3">
+            <div class="col-sm-4">
+                <label class="form-label">Mode</label>
+                <select name="mode" class="form-select" required>
+                    <option value="Add">Add</option>
+                    <option value="Sub">Subtract</option>
+                    <option value="Set">Set to</option>
+                </select>
+                <span class="text-danger" data-valmsg-for="mode"></span>
+            </div>
+            <div class="col-sm-4">
+                <label class="form-label">Quantity</label>
+                <input name="qty" type="number" step="1" min="0" class="form-control" required />
+                <div class="form-text">Integer only, result cannot be negative.</div>
+                <span class="text-danger" data-valmsg-for="qty"></span>
+            </div>
+            <div class="col-sm-12">
+                <label class="form-label">Remark</label>
+                <input name="remark" class="form-control" maxlength="200" />
+            </div>
+        </div>
+    </div>
+    <div class="card-footer d-flex gap-2">
+        <button class="btn btn-primary" type="submit">Confirm</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</form>

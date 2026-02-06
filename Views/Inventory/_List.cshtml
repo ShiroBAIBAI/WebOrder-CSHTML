@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Demo.Models.StockItem>
+@{
+    var restocked = ViewBag.RestockedAt as System.Collections.Generic.Dictionary<string, System.DateTime?> ?? new();
+}
+<table class="table table-hover align-middle">
+    <thead class="table-light">
+        <tr>
+            <th style="width:130px;">ID</th>
+            <th>Name & Category</th>
+            <th style="width:120px;">Unit</th>
+            <th style="width:120px;">Qty</th>
+            <th style="width:160px;">Reorder</th>
+            <th style="width:180px;">Last Restock</th>
+            <th style="width:280px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            var low = s.Quantity <= s.ReorderLevel;
+            var last = restocked.TryGetValue(s.StockItemId, out var dt) ? dt : null;
+
+            <tr class="@(low ? "table-warning" : "")">
+                <td class="text-monospace">@s.StockItemId</td>
+                <td>
+                    <div class="fw-semibold">@s.Name</div>
+                    <div class="text-muted small">
+                        @(string.IsNullOrWhiteSpace(s.Category) ? "-" : s.Category)
+                        @if (low)
+                        {
+                            <span class="badge bg-warning text-dark ms-2 low-flag">Low</span>
+                        }
+                    </div>
+                </td>
+                <td>@(string.IsNullOrEmpty(s.Unit) ? "-" : s.Unit)</td>
+                <td class="fw-semibold">@s.Quantity</td>
+                <td>@s.ReorderLevel</td>
+                <td class="small">@((last != null) ? last?.ToString("yyyy-MM-dd HH:mm") : "-")</td>
+                <td class="text-nowrap">
+                    <div class="btn-group me-1">
+                        <a asp-action="Adjust" asp-route-id="@s.StockItemId" class="btn btn-sm btn-secondary">Modify Stock</a>
+                        <a asp-action="Edit" asp-route-id="@s.StockItemId" class="btn btn-sm btn-primary">Edit</a>
+                    </div>
+                    <form asp-action="Delete" method="post"
+                          class="d-inline m-0 p-0" style="background:transparent;border:0;"
+                          onsubmit="return confirm('Delete @s.Name ? This cannot be undone.');">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@s.StockItemId" />
+                        <button class="btn btn-sm btn-outline-danger ms-1" type="submit">Delete</button>
+                    </form>
+
+                    @if (s.Quantity == 0)
+                    {
+                        <button class="btn btn-sm btn-outline-secondary" disabled title="Qty = 0 (auto Out of Stock)">
+                            Out of Stock
+                        </button>
+                    }
+                    else
+                    {
+                        <form asp-action="ToggleStock" method="post" class="d-inline m-0 p-0" style="background:transparent;border:0;">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="id" value="@s.StockItemId" />
+                            @if (s.IsActive)
+                            {
+                                <input type="hidden" name="mode" value="out" />
+                                <button class="btn btn-sm btn-outline-success" type="submit" title="Click to toggle">
+                                    On Stock
+                                </button>
+                            }
+                            else
+                            {
+                                <input type="hidden" name="mode" value="on" />
+                                <button class="btn btn-sm btn-outline-danger" type="submit" title="Click to toggle">
+                                    Out of Stock
+                                </button>
+                            }
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

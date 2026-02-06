@@ -1,0 +1,35 @@
+﻿@model Demo.Models.Order
+@if (ViewBag.AutoStripe == true)
+{
+    <form id="stripeAutoForm" asp-controller="Payment" asp-action="Start" method="get">
+        <input type="hidden" name="orderId" value="@Model.OrderId" />
+    </form>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var f = document.getElementById('stripeAutoForm');
+            if (f) f.submit();
+        });
+    </script>
+}
+
+@{
+    var channel = ViewBag.Channel as string ?? "";
+    string channelName = channel switch
+    {
+        "tng" => "Touch 'n Go eWallet",
+        "grab" => "GrabPay",
+        "boost" => "Boost",
+        "shopee" => "ShopeePay",
+        "duitnow" => "DuitNow QR",
+        "fpx" => "FPX / Online Banking",
+        _ => "Online Payment"
+    };
+}
+
+<h2>@channelName</h2>
+<p>Order #@Model.OrderId · RM @Model.Total.ToString("0.00")</p>
+<p></p>
+
+
+
+

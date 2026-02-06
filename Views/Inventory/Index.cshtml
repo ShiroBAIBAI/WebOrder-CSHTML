@@ -1,0 +1,122 @@
+﻿@model IEnumerable<Demo.Models.StockItem>
+@{
+    ViewData["Title"] = "Inventory";
+    Layout = "_Layout";
+}
+
+@{
+    var ok = TempData["Ok"] as string;
+    var err = TempData["Err"] as string;
+}
+
+<div class="d-flex align-items-center justify-content-between mt-2 mb-3">
+    <div>
+        <h2 class="mb-0">Inventory</h2>
+    </div>
+    <div class="d-flex gap-2">
+        <a asp-action="Create" class="btn btn-primary">Add Item</a>
+        <form asp-action="BulkOn" method="post" class="d-inline">@Html.AntiForgeryToken()<button class="btn btn-outline-success" type="submit">All On Stock</button></form>
+        <form asp-action="BulkOut" method="post" class="d-inline ms-2">@Html.AntiForgeryToken()<button class="btn btn-outline-danger" type="submit">All Out of Stock</button></form>
+    </div>
+</div>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <div class="row g-2 align-items-center">
+            <div class="col-md-6">
+                <input id="q" class="form-control" placeholder="Search by name / category / unit">
+            </div>
+            <div class="col-md-3">
+                <select id="sort" class="form-select">
+                    <option value="name">Sort by Name</option>
+                    <option value="qty">Sort by Quantity</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <select id="dir" class="form-select">
+                    <option value="asc">Ascending</option>
+                    <option value="desc">Descending</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="list">
+    @await Html.PartialAsync("_List", Model) 
+</div>
+
+@section Scripts {
+    <script>
+        function chime() {
+          try {
+            const ctx = new (window.AudioContext || window.webkitAudioContext)();
+            const now = ctx.currentTime;
+            const tone = (t0, hz, dur=0.12, gain=0.15)=>{
+              const o = ctx.createOscillator(), g = ctx.createGain();
+              o.connect(g); g.connect(ctx.destination);
+              o.type = 'sine'; o.frequency.setValueAtTime(hz, t0);
+              g.gain.setValueAtTime(gain, t0);
+              g.gain.exponentialRampToValueAtTime(0.0001, t0 + dur);
+              o.start(t0); o.stop(t0 + dur + 0.02);
+            };
+            tone(now + 0.00, 660);   // E5
+            tone(now + 0.12, 880);   // A5
+            tone(now + 0.24, 1320);  // E6
+            setTimeout(()=>ctx.close(), 600);
+          } catch {}
+        }
+
+        //  AJAX refresh and sound =====
+        const $q   = document.getElementById('q');
+        const $sort= document.getElementById('sort');
+        const $dir = document.getElementById('dir');
+        const $list= document.getElementById('list');
+        const LIST_URL = '@Url.Action("List", "Inventory")';
+
+        let chimePlayed = false;
+        function showLowAlertIfAny() {
+          const low = $list.querySelector('.low-flag');
+          const hasLow = !!low;
+          const old = document.getElementById('lowAlert');
+
+          if (hasLow) {
+            if (!old) {
+              const div = document.createElement('div');
+              div.id = 'lowAlert';
+              div.className = 'alert alert-warning d-flex align-items-center';
+              div.innerHTML = `<div class="me-2">⚠️</div><div>Some items are at or below the reorder level.</div>`;
+              const card = document.querySelector('.card');
+              (card?.parentElement || document.body).insertBefore(div, card);
+            }
+            if (!chimePlayed) { chime(); chimePlayed = true; }
+          } else {
+            if (old) old.remove();
+          }
+        }
+
+        async function reload(){
+          try{
+            const p = new URLSearchParams();
+            p.set('q',   $q?.value || '');
+            p.set('sort',$sort?.value || 'name');
+            p.set('dir', $dir?.value || 'asc');
+            const res = await fetch(LIST_URL + '?' + p.toString(), { headers: { 'X-Requested-With':'fetch' }});
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            $list.innerHTML = await res.text();
+            showLowAlertIfAny();
+          }catch(e){
+            $list.innerHTML = `<div class="alert alert-danger">Failed to load list: ${e}</div>`;
+            console.error(e);
+          }
+        }
+
+        let t=null;
+        $q.addEventListener('input',()=>{ clearTimeout(t); t = setTimeout(reload, 150); });
+        $sort.addEventListener('change', reload);
+        $dir.addEventListener('change', reload);
+
+        reload();
+    </script>
+}

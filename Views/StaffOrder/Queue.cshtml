@@ -1,0 +1,200 @@
+@model List<Demo.Controllers.StaffOrderVM>
+@{
+    var title = ViewData["Title"] as string ?? "Queue";
+    var forRole = ViewData["ForRole"] as string ?? "";
+    var isHistory = (bool)(ViewData["IsHistory"] ?? false);
+    Layout = "_Layout";
+}
+
+<div class="d-flex align-items-center justify-content-between mt-2 mb-3">
+    <h2 class="mb-0">@title</h2>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">@title</li>
+        </ol>
+    </nav>
+</div>
+
+<form id="controls" class="row gy-2 gx-2 mb-3">
+    <div class="col-sm-6">
+        <input class="form-control" id="q" type="text" value="@Context.Request.Query["q"]"
+               placeholder="Search by table or item name...">
+    </div>
+    <div class="col-sm-3">
+        <select class="form-select" id="view">
+            @if (!isHistory)
+            {
+                <option value="Active" selected>Active</option>
+                <option value="All">All</option>
+                <option value="Placed">Placed</option>
+                <option value="InProgress">In Progress</option>
+            }
+            else
+            {
+                <option value="All" selected>All</option>
+                <option value="Completed">Completed</option>
+                <option value="Cancelled">Cancelled</option>
+            }
+        </select>
+    </div>
+    @if (isHistory)
+    {
+        <div class="col-sm-3 d-flex align-items-center gap-2">
+            <input class="form-control" type="date" id="date" value="@DateTime.Today.ToString("yyyy-MM-dd")" />
+        </div>
+    }
+</form>
+
+<div id="list">
+    <partial name="_QueueList" model="Model" />
+</div>
+
+<audio id="beep" preload="auto">
+    <source src="data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAESsAACJWAAACABAAZGF0YQAAAAA=" type="audio/wav" />
+</audio>
+
+@section Scripts {
+    <script>
+        (function(){
+          const $view = document.getElementById('view');
+          const forRole   = '@forRole';
+          const isHistory = @Html.Raw(((bool)(ViewData["IsHistory"] ?? false)) ? "true" : "false");
+          const KEY_LAST_COUNT = 'staff_last_count_' + forRole;
+
+          const $list  = document.getElementById('list');
+          const $q     = document.getElementById('q');
+          const $date  = document.getElementById('date');
+          const $beep  = document.getElementById('beep');
+
+          let timer = null, isBusy = false;
+
+          const LIST_URL   = '@Url.Action("List", "StaffOrder")';
+          const ACCEPT_URL = '@Url.Action("AcceptVisible", "StaffOrder")';
+          const UPDATE_ONE = '@Url.Action("UpdateLineStatus", "StaffOrder")';
+          const UPDATE_MNY = '@Url.Action("UpdateLinesStatus", "StaffOrder")';
+
+        function params(){
+          const p = new URLSearchParams();
+          p.set('role', forRole);
+          p.set('q', $q?.value || '');
+          if (isHistory) {
+            p.set('todayOnly','false'); p.set('history','true');
+            if ($date && $date.value) p.set('date',$date.value);
+          } else {
+            p.set('todayOnly','true'); p.set('history','false');
+          }
+          p.set('view', $view?.value || (isHistory ? 'All' : 'Active'));  // ← 这里很关键
+          return p.toString();
+        }
+
+          function bindLineButtons(scope){
+            // 单行按钮
+            scope.querySelectorAll('.js-line').forEach(btn=>{
+              btn.addEventListener('click', async (e)=>{
+                e.preventDefault();
+                const to = btn.getAttribute('data-to');
+                const confirmNeeded = btn.getAttribute('data-confirm') === 'true';
+                const li = btn.closest('li[data-line-id]');
+                const id = +li.getAttribute('data-line-id');
+                if (confirmNeeded) {
+                  const msg = (to === 'Cancelled')
+                    ? 'Cancel this line? This action cannot be undone.'
+                    : 'Mark this line as Completed? This action cannot be undone.';
+                  if (!confirm(msg)) return;
+                }
+                stop();
+                try{
+                  await fetch(UPDATE_ONE, {
+                    method:'POST',
+                    headers:{'Content-Type':'application/x-www-form-urlencoded'},
+                    body: new URLSearchParams({ lineId: id, to })
+                  });
+                  await fetchList();
+                } finally { setTimeout(start, 1000); }
+              });
+            });
+            // 复选框 & 工具条
+            scope.querySelectorAll('.js-pick').forEach(cb=>{
+              cb.addEventListener('change', updatePickedCount);
+            });
+            updatePickedCount();
+          }
+
+          async function acceptVisiblePlaced(){
+            const placed = Array.from($list.querySelectorAll('li[data-status="Placed"]'))
+              .map(li => +li.getAttribute('data-line-id'));
+            if (placed.length === 0 || isHistory) return;
+            try {
+              await fetch(ACCEPT_URL, {
+                method:'POST', headers:{'Content-Type':'application/json'},
+                body: JSON.stringify(placed)
+              });
+            } catch {}
+          }
+
+          function countVisibleLines(){
+            return $list.querySelectorAll('li[data-line-id]').length;
+          }
+
+          // 只在“离开后回来”且变多时响
+          let justResumed = true;
+          document.addEventListener('visibilitychange', ()=>{
+            if (document.visibilityState === 'hidden') {
+              localStorage.setItem(KEY_LAST_COUNT, String(countVisibleLines()));
+            } else {
+              justResumed = true;
+              // 立刻触发一次拉取，比较数量
+              fetchList();
+            }
+          });
+
+          async function fetchList(){
+            if (isBusy) return; isBusy = true;
+            const scroll = {x:window.scrollX, y:window.scrollY};
+            try{
+              const url = LIST_URL + '?' + params();
+              const html = await fetch(url, {cache:'no-store'}).then(r=>r.text());
+              $list.innerHTML = html;
+
+              if (!isHistory){
+                await acceptVisiblePlaced();
+                const html2 = await fetch(url, {cache:'no-store'}).then(r=>r.text());
+                $list.innerHTML = html2;
+              }
+
+              bindLineButtons($list);
+
+              // —— 声音逻辑 ——
+              if (justResumed){
+                justResumed = false;
+                const last = +(localStorage.getItem(KEY_LAST_COUNT) || 0);
+                const now  = countVisibleLines();
+                if (now > last) { try{ $beep.play().catch(()=>{});}catch{} }
+                localStorage.setItem(KEY_LAST_COUNT, String(now));
+              }
+
+            }catch(e){
+              // console.log(e);
+            }finally{
+              window.scrollTo(scroll.x, scroll.y);
+              isBusy = false;
+            }
+          }
+
+          function start(){ if (!isHistory && !timer) timer = setInterval(fetchList, 5000); }
+          function stop(){ if (timer){ clearInterval(timer); timer = null; } }
+
+          // 搜索/日期自动应用
+          let typing;
+          $q?.addEventListener('input', ()=>{ clearTimeout(typing); typing=setTimeout(fetchList,250); });
+          $date?.addEventListener('change', fetchList);
+
+          $view && $view.addEventListener('change', fetchList);
+          
+          fetchList();
+          start();
+        })();
+    </script>
+}
+

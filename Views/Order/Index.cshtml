@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Order";
+}
+
+<h2 class="mb-3">Order Menu</h2>
+
+<div class="row g-3 mb-3">
+    <div class="col-12 col-lg-6">
+        <input id="q" class="form-control" placeholder="Type to search (name, desc, category)..." />
+    </div>
+</div>
+
+<div id="catNav" class="sticky-top bg-white pb-2" style="top: 70px; z-index: 100;">
+    <div class="d-flex flex-wrap gap-2 py-2">
+    </div>
+    <hr class="mt-2 mb-0" />
+</div>
+
+<div id="menuSections" class="mt-3"></div>
+
+@section Scripts {
+    <script src="~/js/order.js"></script>
+}

@@ -1,0 +1,150 @@
+/* ---- Base reset (soft) ---- */
+:root { --page-bg: #f5f7fb; --card-bg: #ffffff; }
+html, body { height: 100%; background: var(--page-bg); }
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* Override any accidental global grey backgrounds */
+main .container, main .content-card, header .navbar, footer {
+  background: var(--card-bg) !important;
+}
+
+/* Simple card wrapper for pages */
+.content-card {
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+  min-height: 55vh;
+}
+
+
+/* Hide legacy sidebars if present */
+#left, #right, .left, .right, .sidebar, .sidebar-left, .sidebar-right {
+  display: none !important;
+}
+
+/* Remove any debugging backgrounds in generic divs */
+main div[class*="col-"] { background: transparent !important; }
+
+/* Navbar tweaks */
+.navbar .dropdown-menu { min-width: 12rem; }
+
+/* Forms & cards niceties */
+input.form-control { border-radius: .6rem; }
+.card { border: 1px solid rgba(0,0,0,.06); border-radius: 1rem; overflow: hidden; }
+.card .card-img-top { object-fit: cover; height: 200px; }
+
+/* Table spacing */
+.table th, .table td { vertical-align: middle; }
+
+/* === Fullscreen OK overlay === */
+.ok-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.55);
+    backdrop-filter: blur(2px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    animation: okFadeIn .15s ease-out
+}
+
+.ok-card {
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 18px 60px rgba(0,0,0,.18);
+    padding: 32px 40px;
+    text-align: center;
+    animation: okPop .22s ease-out
+}
+
+.ok-svg .circle {
+    stroke-dasharray: 320;
+    stroke-dashoffset: 320;
+    animation: okDraw .6s ease-out forwards
+}
+
+.ok-svg .tick {
+    stroke-dasharray: 140;
+    stroke-dashoffset: 140;
+    animation: okDraw .6s ease-out .14s forwards
+}
+
+@keyframes okDraw {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+
+@keyframes okPop {
+    from {
+        transform: scale(.92);
+        opacity: .6
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1
+    }
+}
+
+@keyframes okFadeIn {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+/* Payment cards */
+.pay-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
+    gap: .75rem;
+}
+
+.pay-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    border: 1px solid #dee2e6;
+    border-radius: .75rem;
+    padding: .75rem .5rem;
+    background: #fff;
+    cursor: pointer;
+    min-height: 64px;
+    transition: all .15s ease;
+}
+
+    .pay-card img {
+        height: 28px;
+        width: auto;
+        object-fit: contain;
+    }
+
+    .pay-card span {
+        font-weight: 600;
+        font-size: .95rem;
+    }
+
+    .pay-card:hover {
+        box-shadow: 0 4px 18px rgba(0,0,0,.08);
+        transform: translateY(-1px);
+    }
+
+    .pay-card.selected {
+        border-color: #0d6efd;
+        box-shadow: 0 0 0 3px rgba(13,110,253,.15);
+    }
+
+.pay-section h5 {
+    margin-bottom: .5rem;
+}
+
+.pay-hint {
+    color: #6c757d;
+    font-size: .9rem;
+    margin-bottom: .5rem;
+}

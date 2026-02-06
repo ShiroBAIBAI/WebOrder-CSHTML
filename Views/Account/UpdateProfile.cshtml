@@ -1,0 +1,53 @@
+﻿@model Demo.Models.UpdateProfileVM
+
+@{
+    ViewData["Title"] = "Update Profile";
+}
+
+<h2 class="mb-4">Update Profile</h2>
+
+<form asp-action="UpdateProfile" asp-controller="Account" method="post" enctype="multipart/form-data" class="card shadow-sm p-4">
+    <div class="mb-3">
+        <label asp-for="Photo" class="form-label">Upload New Photo</label>
+        <input asp-for="Photo" type="file" class="form-control" accept="image/*" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
+    </div>
+    
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 text-center">
+        <label class="form-label d-block">Profile Photo</label>
+        <div class="border rounded p-2 d-inline-block">
+            <img src="~/photos/@Model.PhotoURL" alt="Profile Photo" width="120" height="120" class="rounded-circle shadow-sm" />
+        </div>
+    </div>
+
+    <div class="text-end mb-3">
+        <a asp-action="UpdatePassword" class="btn btn-outline-secondary">Change Password</a>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-100">Update</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    @* If TempData has info, show popup *@
+    @if (TempData["Info"] is string info)
+    {
+        <script>
+            window.addEventListener("DOMContentLoaded", () => {
+                window.showOK("@info");
+            });
+        </script>
+    }
+}

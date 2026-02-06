@@ -1,0 +1,26 @@
+@model IEnumerable<Demo.Models.MenuItem>
+@{
+    ViewData["Title"] = "Menu";
+}
+<h2>Menu (Server rendered)</h2>
+<div class="row g-3">
+@foreach (var m in Model)
+{
+  <div class="col-12 col-md-6 col-lg-4">
+    <div class="card h-100">
+      <img class="card-img-top" src="@(m.Images?.OrderBy(i=>i.SortOrder).FirstOrDefault()?.Url ?? "/images/placeholder.png")" />
+      <div class="card-body">
+        <h5 class="card-title">@m.Name</h5>
+        <p class="card-text">@m.Description</p>
+        <div class="d-flex justify-content-between align-items-center">
+                        <span class="fw-bold">RM @m.Price.ToString("0.00")</span>
+                        <form method="post" asp-action="AddToCart">
+            <input type="hidden" name="menuItemId" value="@m.MenuItemId" />
+            <button class="btn btn-primary btn-sm">Add</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+}
+</div>

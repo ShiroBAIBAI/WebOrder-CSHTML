@@ -1,0 +1,40 @@
+﻿@model Demo.Models.Order
+@{
+    ViewData["Title"] = $"Order #{Model.OrderId}";
+}
+<h2>Order #@Model.OrderId</h2>
+<div class="text-muted mb-2">
+    @Model.CreatedAt.ToString("yyyy-MM-dd HH:mm") · @Model.MemberEmail
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th style="width:90px">Qty</th>
+            <th style="width:140px">Price</th>
+            <th style="width:160px">Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var l in Model.Lines)
+        {
+            var name = l.MenuItem?.Name ?? l.MenuItemId;
+            var sub = l.Price * l.Quantity;
+            <tr>
+                <td>@name</td>
+                <td>@l.Quantity</td>
+                <td>RM @l.Price.ToString("0.00")</td>
+                <td>RM @sub.ToString("0.00")</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr class="table-active">
+            <th colspan="3" class="text-end">Total</th>
+            <th>RM @Model.Total.ToString("0.00")</th>
+        </tr>
+    </tfoot>
+</table>
+
+<a class="btn btn-secondary" asp-action="MyOrders">Back</a>

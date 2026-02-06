@@ -1,0 +1,251 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@(ViewData["Title"] as string ?? "Food Ordering System") - Food Ordering System</title>
+    <link rel="icon" type="image/png" href="~/images/logo.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/css/clean.css" />
+    <link rel="stylesheet" href="~/css/animations.css" />
+</head>
+@inject Demo.Helper hp
+@inject Demo.Models.DB db
+<body>
+<header>
+<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
+  <div class="container">
+    <a class="navbar-brand fw-semibold" asp-controller="Home" asp-action="Index">Food Ordering System</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMain" aria-controls="navMain" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navMain">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+        @if (User.IsInRole("Admin"))
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="AdminOrder" asp-action="CreateManualOrder">Manual Order</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="AdminOrder" asp-action="Index">Order Management</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="MenuItems" asp-action="Index">Menu Management</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Inventory" asp-action="Index">Inventory</a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item"><a class="nav-link" asp-controller="Order" asp-action="Index">Order</a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="Order" asp-action="Cart">Cart</a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="Order" asp-action="MyOrders">My Orders</a></li>
+        }
+
+      </ul>
+      <ul class="navbar-nav ms-auto">
+        @if (User?.Identity?.IsAuthenticated == true)
+        {
+            <li class="nav-item">
+                <span class="navbar-text me-2">@User!.Identity!.Name</span>
+            </li>
+
+            @if (User.IsInRole("Member"))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Account" asp-action="UpdateProfile">Update Profile</a>
+                </li>
+            }
+
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Account" asp-action="Logout">Logout</a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
+            </li>
+        }
+
+        @if (User.IsInRole("Admin"))
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Admin" asp-action="Dashboard">Admin Dashboard</a>
+            </li>
+        }
+
+        @if (User.IsInRole("Kitchen"))
+        {
+            <li class="nav-item"><a class="nav-link" asp-controller="StaffOrder" asp-action="Kitchen">Kitchen</a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="StaffOrder" asp-action="HistoryKitchen">History</a></li>
+        }
+        @if (User.IsInRole("Bar"))
+        {
+            <li class="nav-item"><a class="nav-link" asp-controller="StaffOrder" asp-action="Bar">Bar</a></li>
+            <li class="nav-item"><a class="nav-link" asp-controller="StaffOrder" asp-action="HistoryBar">History</a></li>
+        }
+
+      </ul>
+    </div>
+  </div>
+</nav>
+        <div id="toastHost" class="toast-container position-fixed top-0 end-0 p-3" style="z-index:1080"></div>
+        <div id="okOverlay" class="ok-overlay" hidden>
+            <div class="ok-card">
+                <svg class="ok-svg" viewBox="0 0 120 120" width="140" height="140" aria-hidden="true">
+                    <circle class="circle" cx="60" cy="60" r="50" fill="none" stroke="#22c55e" stroke-width="6" />
+                    <path class="tick" d="M35 65 L52 82 L88 46" fill="none" stroke="#22c55e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" />
+                </svg>
+                <div id="okText" class="mt-3 fs-5 fw-semibold text-success">Saved</div>
+            </div>
+        </div>
+</header>
+
+    <script>
+        window.addEventListener('DOMContentLoaded', function () {
+
+          var ok = '@(TempData["ok"] ?? TempData["Info"] ?? TempData["Success"] ?? "")'
+                    .replace(/&amp;/g,'&').trim();
+
+          var er = '@(TempData["error"] ?? TempData["Error"] ?? TempData["warning"] ?? "")'
+                    .replace(/&amp;/g,'&').trim();
+
+          if (ok) {
+            if (typeof window.showOK === 'function') {
+              window.showOK(ok); 
+            } else if (typeof window.showToast === 'function') {
+              window.showToast(ok, 'success');
+            } else {
+              alert(ok);
+            }
+          }
+
+          if (er) {
+            if (typeof window.showToast === 'function') {
+              window.showToast(er, 'error');
+            } else if (typeof window.showOK === 'function') {
+              window.showOK(er); 
+            } else {
+              alert(er);
+            }
+          }
+        });
+    </script>
+
+<main class="page-container py-4">
+  <div class="container">
+    <div class="content-card p-4">
+      @RenderBody()
+    </div>
+  </div>
+</main>
+
+<footer class="border-top py-3">
+  <div class="container text-muted small d-flex justify-content-between">
+    <span>&copy; @DateTime.Now.Year Food Ordering System</span>
+    <span>TARUMT RSDY2S2 G1 Jie</span>
+  </div>
+</footer>
+
+    <style>
+        .ok-overlay {
+            position: fixed;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1080;
+            background: rgba(0,0,0,.35)
+        }
+
+        .ok-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 28px 24px;
+            box-shadow: 0 30px 80px rgba(0,0,0,.25);
+            text-align: center;
+            animation: bt-pop .22s ease forwards
+        }
+
+        .ok-svg .circle {
+            stroke-dasharray: 314;
+            stroke-dashoffset: 314;
+            animation: draw .5s ease forwards
+        }
+
+        .ok-svg .tick {
+            stroke-dasharray: 120;
+            stroke-dashoffset: 120;
+            animation: draw .35s .25s ease forwards
+        }
+    </style>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    (function () {
+        var ok = '@(TempData["ok"] ?? TempData["Info"] ?? TempData["Success"] ?? "")'.replace(/&amp;/g,'&').trim();
+        var er = '@(TempData["error"] ?? TempData["Error"] ?? TempData["warning"] ?? "")'.replace(/&amp;/g,'&').trim();
+
+        if (ok) {
+        if (typeof window.showOK === 'function') window.showOK(ok);
+        else if (typeof window.showToast === 'function') window.showToast(ok, 'success');
+        }
+        if (er) {
+        if (typeof window.showToast === 'function') window.showToast(er, 'error');
+        else if (typeof window.showOK === 'function') window.showOK(er);
+        }
+    })();
+</script>
+
+<script>
+    (function () {
+        const nativeAlert = window.alert;
+        window.alert = function (msg) {
+        try {
+            var text = String(msg ?? '');
+            if (typeof window.showOK === 'function') {
+            window.showOK(text);
+            return;
+            }
+            if (typeof window.showToast === 'function') {
+            window.showToast(text, 'success');
+            return;
+            }
+        } catch(_) {}
+        nativeAlert(msg);
+        };
+    })();
+</script>
+
+@if (TempData["ok"] is string ok)
+{
+    <script>window.addEventListener('DOMContentLoaded',()=>showOK('@ok'));</script>
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+@RenderSection("Scripts", required: false)
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/prompt.js"></script>
+<script>
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <text>showSuccess("@TempData["SuccessMessage"]");</text>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <text>showError("@TempData["ErrorMessage"]");</text>
+    }
+    @if (TempData["InfoMessage"] != null)
+    {
+        <text>showInfo("@TempData["InfoMessage"]");</text>
+    }
+</script>
+</body>
+</html>

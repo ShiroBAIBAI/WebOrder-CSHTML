@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Demo.Models.MenuItem>
+
+@{
+    ViewData["Title"] = "Create Manual Order";
+}
+
+<h2 class="mb-4">Create Manual Order</h2>
+
+<div class="card shadow-sm p-4">
+    <form asp-action="CreateManualOrder" method="post">
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label class="form-label fw-semibold">Table No</label>
+                <input type="text" name="tableNo" class="form-control" placeholder="Table #" />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label fw-semibold">Status</label>
+                <select name="status" class="form-select">
+                    <option value="Pending">Pending</option>
+                    <option value="In Progress">In Progress</option>
+                    <option value="Completed">Completed</option>
+                </select>
+            </div>
+        </div>
+
+        <h5 class="mt-4">Select Menu Items</h5>
+        <table class="table table-bordered align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Price (RM)</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Category?.Name</td>
+                    <td>RM @item.Price.ToString("0.00")</td>
+                    <td>
+                        <input type="number" class="form-control" name="quantities[@item.MenuItemId]" value="0" min="0" />
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+
+        <div class="d-flex justify-content-between mt-3">
+            <a asp-action="Index" class="btn btn-outline-secondary">⬅ Back</a>
+            <button type="submit" class="btn btn-success">💾 Create Order</button>
+        </div>
+    </form>
+</div>

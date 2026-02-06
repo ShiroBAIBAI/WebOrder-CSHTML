@@ -1,0 +1,259 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Sales Report";
+
+    var filter = ViewBag.Filter as string ?? "all";
+    var startDate = ViewBag.StartDate as string ?? "";
+    var endDate = ViewBag.EndDate as string ?? "";
+
+    var labels = ViewBag.Labels as string[] ?? new string[0];
+    var data = ViewBag.Data as decimal[] ?? new decimal[0];
+
+    var salesData = ((IEnumerable<dynamic>)ViewBag.SalesData) ?? Enumerable.Empty<dynamic>();
+
+    var totalSales = (decimal)(ViewBag.TotalSales ?? 0m);
+    var mostPopular = ViewBag.MostPopular as string ?? "N/A";
+    var totalItems = salesData.Sum(x => (int)x.Quantity);
+    var averageOrderValue = salesData.Any() ? totalSales / salesData.Count() : 0m;
+    var top3 = salesData.OrderByDescending(x => (decimal)x.Total).Take(3).ToList();
+
+    var showCustom = filter == "custom";
+}
+
+<div class="container mt-4">
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold"><i class="fas fa-chart-line me-2 text-primary"></i> Sales Report</h2>
+        <div class="btn-group">
+            <button type="button" class="btn btn-outline-secondary dropdown-toggle" data-bs-toggle="dropdown">
+                <i class="fas fa-download"></i> Export
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end">
+                <li><a class="dropdown-item" href="?export=excel">Export to Excel</a></li>
+                <li><a class="dropdown-item" href="?export=pdf">Export to PDF</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Filter -->
+    <form method="get" class="row g-3 mb-4">
+        <div class="col-md-3">
+            <select id="filterSelect" name="filter" class="form-select" onchange="this.form.submit()">
+                @if (filter == "all")
+                {
+                    <option value="all" selected>All Time</option>
+                }
+                else
+                {
+                    <option value="all">All Time</option>
+                }
+                @if (filter == "today")
+                {
+                    <option value="today" selected>Today</option>
+                }
+                else
+                {
+                    <option value="today">Today</option>
+                }
+                @if (filter == "7days")
+                {
+                    <option value="7days" selected>Last 7 Days</option>
+                }
+                else
+                {
+                    <option value="7days">Last 7 Days</option>
+                }
+                @if (filter == "month")
+                {
+                    <option value="month" selected>This Month</option>
+                }
+                else
+                {
+                    <option value="month">This Month</option>
+                }
+                @if (filter == "lastmonth")
+                {
+                    <option value="lastmonth" selected>Last Month</option>
+                }
+                else
+                {
+                    <option value="lastmonth">Last Month</option>
+                }
+                @if (filter == "custom")
+                {
+                    <option value="custom" selected>Custom Range</option>
+                }
+                else
+                {
+                    <option value="custom">Custom Range</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-md-3" id="customStart" style="display:@(showCustom ? "block" : "none")">
+            <input type="date" name="startDate" value="@startDate" class="form-control" />
+        </div>
+        <div class="col-md-3" id="customEnd" style="display:@(showCustom ? "block" : "none")">
+            <input type="date" name="endDate" value="@endDate" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <button type="submit" class="btn btn-primary"><i class="fas fa-filter me-1"></i> Apply</button>
+        </div>
+    </form>
+
+    <!-- KPI Cards -->
+    <div class="row mb-4 g-3">
+        <div class="col-md-3">
+            <div class="card shadow-sm text-white" style="background: linear-gradient(135deg,#4e73df,#224abe);">
+                <div class="card-body">
+                    <h6><i class="fas fa-dollar-sign me-1"></i>Total Sales</h6>
+                    <h3>@($"RM {totalSales:N2}")</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card shadow-sm text-white" style="background: linear-gradient(135deg,#1cc88a,#0f5132);">
+                <div class="card-body">
+                    <h6><i class="fas fa-boxes me-1"></i>Total Items Sold</h6>
+                    <h3>@totalItems</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card shadow-sm text-white" style="background: linear-gradient(135deg,#36b9cc,#117a8b);">
+                <div class="card-body">
+                    <h6><i class="fas fa-balance-scale me-1"></i>Avg Order Value</h6>
+                    <h3>@($"RM {averageOrderValue:N2}")</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card shadow-sm text-white" style="background: linear-gradient(135deg,#f6c23e,#a07902);">
+                <div class="card-body">
+                    <h6><i class="fas fa-star me-1"></i>Best Seller</h6>
+                    <h3>@mostPopular</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Insights -->
+    <div class="alert alert-light border shadow-sm mb-4">
+        <h6 class="mb-2"><i class="fas fa-lightbulb text-warning me-2"></i>Insights</h6>
+        <ul class="mb-0">
+            <li>Best-selling product: <span class="badge bg-warning text-dark">@mostPopular</span></li>
+            <li>Top 3 Products: <span class="text-success fw-bold">@string.Join(", ", top3.Select(x => (string)x.Product))</span></li>
+        </ul>
+    </div>
+
+    <div class="row">
+        <!-- Sales by Product -->
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <strong><i class="fas fa-chart-pie me-1"></i>Sales by Product</strong>
+                    <div>
+                        <button type="button" class="btn btn-sm btn-outline-primary me-2" onclick="switchChart('pie')">Pie</button>
+                        <button type="button" class="btn btn-sm btn-outline-secondary" onclick="switchChart('bar')">Bar</button>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <canvas id="salesChart" style="max-height:280px"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sales Over Time -->
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-header"><strong><i class="fas fa-chart-line me-1"></i>Sales Over Time</strong></div>
+                <div class="card-body">
+                    <canvas id="trendChart" style="max-height:280px"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sales Table -->
+    <div class="card shadow-sm">
+        <div class="card-header"><strong><i class="fas fa-table me-1"></i>Sales Details</strong></div>
+        <div class="card-body p-0">
+            <table class="table table-hover table-striped table-bordered mb-0">
+                <thead class="table-dark sticky-top">
+                    <tr>
+                        <th>Product</th>
+                        <th class="text-center">Quantity</th>
+                        <th class="text-end">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in salesData)
+                    {
+                        <tr>
+                            <td>@item.Product</td>
+                            <td class="text-center">@item.Quantity</td>
+                            <td class="text-end">@($"RM {(decimal)item.Total:N2}")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://kit.fontawesome.com/a2e0f1f0d4.js" crossorigin="anonymous"></script>
+    <script>
+        // Custom date toggle
+        (function () {
+            var filterSelect = document.getElementById('filterSelect');
+            var start = document.getElementById('customStart');
+            var end = document.getElementById('customEnd');
+            filterSelect.addEventListener('change', function () {
+                if (this.value === 'custom') { start.style.display = 'block'; end.style.display = 'block'; }
+                else { start.style.display = 'none'; end.style.display = 'none'; }
+            });
+        })();
+
+        // Product Chart
+        var chartType = 'pie';
+        var ctx = document.getElementById('salesChart');
+        var salesChart;
+        function renderChart(type) {
+            if (salesChart) salesChart.destroy();
+            salesChart = new Chart(ctx, {
+                type: type,
+                data: {
+                    labels: @Html.Raw(JsonSerializer.Serialize(labels)),
+                    datasets: [{
+                        label: 'Sales',
+                        data: @Html.Raw(JsonSerializer.Serialize(data)),
+                        backgroundColor: ['#4e73df','#1cc88a','#36b9cc','#f6c23e','#e74a3b','#858796','#20c9a6','#5a5c69']
+                    }]
+                },
+                options: { responsive: true, plugins: { legend: { position: 'bottom' } } }
+            });
+        }
+        function switchChart(t) { renderChart(t); }
+        renderChart(chartType);
+
+        // Trend Chart
+        var trendCtx = document.getElementById('trendChart');
+        new Chart(trendCtx, {
+            type: 'line',
+            data: {
+                labels: @Html.Raw(JsonSerializer.Serialize(labels)),
+                datasets: [{
+                    label: 'Sales Over Time',
+                    data: @Html.Raw(JsonSerializer.Serialize(data)),
+                    borderColor: '#36A2EB',
+                    backgroundColor: 'rgba(54,162,235,0.2)',
+                    fill: true,
+                    tension: 0.3
+                }]
+            },
+            options: { responsive: true, plugins: { legend: { position: 'bottom' } } }
+        });
+    </script>
+}

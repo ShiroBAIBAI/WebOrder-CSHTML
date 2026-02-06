@@ -1,0 +1,1534 @@
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\libman.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\WMS-10-DONE\WMS-10-DONE\Demo\Demo\obj\Debug\net9.0\compressed\kz259zryys-yp3op4n6jv.gz
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\libman.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\kz259zryys-yp3op4n6jv.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\1\Downloads\test\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\libman.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\1\Downloads\test\Demo (2)\Demo\obj\Debug\net9.0\compressed\kz259zryys-96jdoz9pek.gz
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\libman.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\test\Demo1\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\kz259zryys-96jdoz9pek.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\1\Downloads\test\Demo1\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\libman.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Desktop\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\kz259zryys-96jdoz9pek.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\acer\Desktop\Demo\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\libman.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\kz259zryys-96jdoz9pek.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\jason\Downloads\Demo (2)\Demo\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\libman.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\moxlhvdfuc-x4cbm9arig.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\kz259zryys-96jdoz9pek.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\22a9juuqxd-azd544o43i.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\ch7szu10ds-getg8mlsvl.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\lmksg1up3f-o1o13a6vjx.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\asv6xhgs9u-8ve2wm9mbw.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\0ol4colqjn-ag7o75518u.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\133lsfpz21-48y08845bh.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\ewnv7zk2j3-lh6q35wu3i.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\ref\Demo.dll
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\ceyqgd85d1-4gv7ilev5x.gz
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\compressed\argvxc71b3-jcnyroe2pd.gz
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\daich\Downloads\Demo\Demo\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\daich\Downloads\Demo\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\libman.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.runtime.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.staticwebassets.endpoints.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.exe
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.deps.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Demo.pdb
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Humanizer.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\MailKit.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\MimeKit.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\QuestPDF.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.csproj.AssemblyReference.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.RazorAssemblyInfo.cs
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\scopedcss\bundle\Demo.styles.css
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\p5dzw9cxni-{0}-jcnyroe2pd-jcnyroe2pd.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\ageytdwxlg-{0}-x4cbm9arig-x4cbm9arig.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\nk0vyfoftf-{0}-96jdoz9pek-96jdoz9pek.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\2hkq130w5n-{0}-azd544o43i-azd544o43i.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\59yhr2xew1-{0}-getg8mlsvl-getg8mlsvl.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\ej6zkewv3r-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\z28rbxrzoo-{0}-8ve2wm9mbw-8ve2wm9mbw.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\ub3s2x6pg0-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\zomokifa72-{0}-48y08845bh-48y08845bh.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\cmf46fea8k-{0}-lh6q35wu3i-lh6q35wu3i.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\compressed\uc7kq2ojmt-{0}-4gv7ilev5x-4gv7ilev5x.gz
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.csproj.Up2Date
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\refint\Demo.dll
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.pdb
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\obj\Debug\net9.0\ref\Demo.dll

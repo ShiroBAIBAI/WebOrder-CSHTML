@@ -1,0 +1,47 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Sales Report";
+    var labels = ViewBag.Labels as string[];
+    var data = ViewBag.Data as decimal[];
+    var totalSales = (decimal)ViewBag.TotalSales;
+    var mostPopular = ViewBag.MostPopular as string;
+}
+
+<h2>Sales Report</h2>
+
+<div class="mb-3">
+    <p><strong>Total Sales:</strong> @totalSales.ToString("C")</p>
+    <p><strong>Most Popular Product:</strong> @mostPopular</p>
+</div>
+
+<div style="max-width:700px;">
+    <canvas id="salesChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    var ctx = document.getElementById('salesChart').getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: @Html.Raw(JsonSerializer.Serialize(labels)),
+            datasets: [{
+                label: 'Sales by Product',
+                data: @Html.Raw(JsonSerializer.Serialize(data)),
+                backgroundColor: [
+                    '#FF6384', '#36A2EB', '#FFCE56',
+                    '#8BC34A', '#FF9800', '#9C27B0',
+                    '#00BCD4', '#E91E63'
+                ]
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'right',
+                }
+            }
+        }
+    });
+</script>

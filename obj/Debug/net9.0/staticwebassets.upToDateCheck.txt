@@ -1,0 +1,69 @@
+wwwroot\css\animations.css
+wwwroot\css\app.css
+wwwroot\css\clean.css
+wwwroot\css\pager.css
+wwwroot\images\favicon.png
+wwwroot\images\loader.gif
+wwwroot\images\logo.png
+wwwroot\images\photo.jpg
+wwwroot\js\app.js
+wwwroot\js\jquery.min.js
+wwwroot\js\jquery.unobtrusive-ajax.min.js
+wwwroot\js\jquery.validate.min.js
+wwwroot\js\jquery.validate.unobtrusive.min.js
+wwwroot\js\order.js
+wwwroot\js\prompt.js
+wwwroot\photos\0c6081e9-b612-448a-8dfc-05ceb4886abe.jpeg
+wwwroot\photos\8d6eb419-658f-466b-bb33-18aa346477c8.jpg
+wwwroot\photos\admin.jpg
+wwwroot\photos\d92915328c874164963b5cfc022f0b5d.jpg
+wwwroot\photos\default.png
+wwwroot\photos\ebb79449-bd94-43cc-aaec-ddbdc9095cb3.jpg
+wwwroot\photos\m1.jpg
+wwwroot\photos\m2.jpg
+wwwroot\photos\menu\IM0001.jpg
+wwwroot\photos\menu\IM0002.jpg
+wwwroot\photos\menu\IM0003.jpg
+wwwroot\photos\photo.jpg
+wwwroot\uploads\01dd2d23-3a18-44a6-98c8-9ab3800e004a.png
+wwwroot\uploads\0476f574-e0e6-4d50-9c50-44fcfbc91cce.png
+wwwroot\uploads\0c34712a-7651-494f-92fd-18b859df1335.jpg
+wwwroot\uploads\10f43424-0333-4089-9404-e393d2972d47.png
+wwwroot\uploads\18151d69-e388-446e-ab6d-d7e33be110fb.png
+wwwroot\uploads\1fbb6e4e-f5bf-4874-ad6c-27167f0e78e1.jpg
+wwwroot\uploads\22b7953a-6791-47ea-b6a9-1d8efd9f7696.png
+wwwroot\uploads\377b4652-1f39-49a6-9429-8d3f5d9fee56.jpg
+wwwroot\uploads\440fc002-ff65-4f06-b335-6534ad37b501.png
+wwwroot\uploads\55b28b89-769f-4334-a9e6-2990b8acb4d6.png
+wwwroot\uploads\5e62116b-714c-4079-b9d4-8e6cef3a7077.jpg
+wwwroot\uploads\5f97b6a7-beb7-487e-b93f-2029f7e68a6b.png
+wwwroot\uploads\60b8b5f3-40c7-43ea-a6a4-a9f956703cc3.png
+wwwroot\uploads\69a8e8fd-88d9-4a96-8d33-724031b5a14f.png
+wwwroot\uploads\707179ec-565a-4ae0-a9d4-e26ad956496f.png
+wwwroot\uploads\7a9fd48b-7026-434b-8885-bc43aaec0b36.png
+wwwroot\uploads\7d406d5f-e127-43f0-a747-1833d71ec277.png
+wwwroot\uploads\7e492c83-ceaa-421e-b34e-523086534951.jpg
+wwwroot\uploads\7f55c9bd-7023-4a48-b0d0-bd320f28a3ba.png
+wwwroot\uploads\862008ee-93af-49ec-9db5-1db39aea0b02.png
+wwwroot\uploads\905672a8-b20f-4bb3-b7be-9bf8c4477254.png
+wwwroot\uploads\924a30d1-3cea-4cfb-a12f-a5e38ee432b6.png
+wwwroot\uploads\9af3b556-7502-490d-a42f-a380fb2976fc.png
+wwwroot\uploads\acea6ee6-b893-4a90-82c6-d567b8365c7d.png
+wwwroot\uploads\b6a6a443-f95a-452c-8fd2-6206666619ce.png
+wwwroot\uploads\c247002f-8076-46b4-8ba9-324182793596.png
+wwwroot\uploads\d3cb7b21-ff7d-4759-9070-22b1cdc5f06f.jpg
+wwwroot\uploads\d5f194e5-8708-4c58-a14e-d5113571919f.png
+wwwroot\uploads\d8017c18-b645-4158-bf74-3c53d3b4c85e.png
+wwwroot\uploads\d909eaa8-f146-4836-b9a9-88eb507dcca4.png
+wwwroot\uploads\f9d20b8a-ae73-4b0a-8ae6-56bb7055fd05.png
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\css\animations.css
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\css\app.css
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\css\clean.css
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\css\pager.css
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\app.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\jquery.min.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\jquery.unobtrusive-ajax.min.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\jquery.validate.min.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\jquery.validate.unobtrusive.min.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\order.js
+C:\Users\daich\Desktop\Assignment TARC\Degree\web and mobile\Demo\Demo\Demo\wwwroot\js\prompt.js

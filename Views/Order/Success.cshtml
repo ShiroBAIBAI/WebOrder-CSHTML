@@ -1,0 +1,10 @@
+@model Demo.Models.Order
+@{
+  ViewData["Title"] = "Success";
+}
+<div class="alert alert-success">
+  <h4>Order Placed!</h4>
+  <p>Your order <b>#@Model.OrderId</b> was created.</p>
+  <p>Total: <b>RM @Model.Total.ToString("0.00")</b></p>
+</div>
+<a class="btn btn-primary" asp-action="Index">Back to Menu</a>

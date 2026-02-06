@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CafeDB/True/SqlTable/dbo.MenuItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\services\\receipttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:services\\receipttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CafeDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\staffordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\staffordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\menucategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menucategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\menuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\menuapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\diagnosticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|c:\\users\\daich\\desktop\\assignment tarc\\degree\\web and mobile\\demo\\demo\\demo\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05A13DF-D90B-4FA8-AA5E-F2A315518829}|Demo.csproj|solutionrelative:models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.MenuItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CafeDB/True/SqlTable/dbo.MenuItems.sql",
+              "ToolTip": "dbo.MenuItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-24T13:13:35.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:02:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceiptTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\ReceiptTemplate.cs",
+              "RelativeDocumentMoniker": "Services\\ReceiptTemplate.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\ReceiptTemplate.cs",
+              "RelativeToolTip": "Services\\ReceiptTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:00:36.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceService.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\PriceService.cs",
+              "RelativeDocumentMoniker": "Services\\PriceService.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\PriceService.cs",
+              "RelativeToolTip": "Services\\PriceService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:00:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "Services\\InvoiceService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T13:00:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-24T12:51:47.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwKoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:49:13.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:50:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CafeDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/CafeDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-24T12:46:47.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Models\\ViewModels.cs",
+              "RelativeToolTip": "Models\\ViewModels.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaffOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\StaffOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffOrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\StaffOrderController.cs",
+              "RelativeToolTip": "Controllers\\StaffOrderController.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAA1wFQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesReportController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\SalesReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesReportController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\SalesReportController.cs",
+              "RelativeToolTip": "Controllers\\SalesReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAmwAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAcwBwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuCategoriesController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\MenuCategoriesController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuApiController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuApiController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\MenuApiController.cs",
+              "RelativeToolTip": "Controllers\\MenuApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAkwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiagnosticsController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\DiagnosticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiagnosticsController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\DiagnosticsController.cs",
+              "RelativeToolTip": "Controllers\\DiagnosticsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AdminOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminOrderController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AdminOrderController.cs",
+              "RelativeToolTip": "Controllers\\AdminOrderController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAowH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Models\\DB.cs",
+              "RelativeDocumentMoniker": "Models\\DB.cs",
+              "ToolTip": "C:\\Users\\daich\\Desktop\\Assignment TARC\\Degree\\web and mobile\\Demo\\Demo\\Demo\\Models\\DB.cs",
+              "RelativeToolTip": "Models\\DB.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T12:41:23.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

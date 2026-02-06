@@ -1,0 +1,165 @@
+﻿@model Demo.Models.LoginVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_Layout";
+}
+<div class="row justify-content-center mt-4">
+    <div class="col-md-5">
+        <div class="card shadow-sm">
+            <div class="card-body p-4">
+                <h3 class="mb-3 text-center">Sign in</h3>
+                <form asp-action="Login" method="post" id="loginForm">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-2">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-check mb-3">
+                        <input asp-for="RememberMe" class="form-check-input" />
+                        <label asp-for="RememberMe" class="form-check-label"></label>
+                    </div>
+                    <div class="mb-3">
+                        <div class="g-recaptcha"
+                             data-sitekey="@(Context.RequestServices
+                                                       .GetService<IConfiguration>()!
+                                                       .GetSection("Recaptcha")["SiteKey"])">
+                        </div>
+                        <span asp-validation-for="CaptchaToken" class="text-danger"></span>
+                    </div>
+                    <button class="btn btn-primary w-100">Login</button>
+                    <div class="text-center mt-3">
+                        <a asp-action="Register">Create an account</a> ·
+                        <a asp-action="ResetPassword">Forgot password?</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+@{
+    var guestCount = (int)(ViewBag.GuestCartCount ?? 0);
+}
+<script>
+    (function () {
+        function ask(msg){
+            if (typeof confirmAsync === 'function') {
+                return confirmAsync(msg, 'Login & Clear', 'Back');
+            }
+            return Promise.resolve(window.confirm(msg));
+        }
+        function ready(fn){ if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
+
+        ready(function(){
+            var form = document.getElementById('loginForm')
+                    || document.querySelector('form[method="post"]')
+                    || document.querySelector('form');
+            if (!form) return;
+
+            fetch('@Url.Action("Count", "Cart")', { cache: 'no-store' })
+                .then(r => r.json())
+                .then(data => {
+                    var guestCount = (data && typeof data.count === 'number') ? data.count : 0;
+                    console.log('[Login Prompt] count from /Cart/Count =', guestCount);
+
+                    if (guestCount > 0) {
+                        ask('Logging in will CLEAR your current guest cart. Continue?')
+                        .then(function(ok){
+                            if (!ok) {
+                                window.location.href = '@Url.Action("Index", "Cart")';
+                            }
+                        });
+                    }
+
+                    form.addEventListener('submit', function(e){
+                        if (!(guestCount > 0) || window.__loginConfirmOk) return;
+                        e.preventDefault();
+                        ask('Logging in will CLEAR your current guest cart. Continue?').then(function(ok){
+                            if (ok) {
+                                window.__loginConfirmOk = true;
+                                if (typeof showSuccess === 'function') { showSuccess('Signing you in...', true); }
+                                form.submit();
+                            }
+                        });
+                    });
+                })
+                .catch(err => {
+                    console.warn('Cart count fetch failed:', err);
+                });
+        });
+    })();
+</script>
+
+<script>
+(function () {
+    try {
+        var guestCount = (function(){
+            try { return parseInt('@(ViewBag.GuestCartCount ?? 0)'); } catch(_) { return 0; }
+        })();
+
+        function fallbackConfirm(msg){
+            if (typeof confirmAsync === 'function') {
+                return confirmAsync(msg, 'Login & Clear', 'Back');
+            }
+            return Promise.resolve(window.confirm(msg));
+        }
+
+        function onReady(fn){ if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
+
+        onReady(function(){
+            var form = document.getElementById('loginForm') || document.querySelector('form[method="post"]') || document.querySelector('form');
+            if (!form) return;
+
+            if (guestCount > 0) {
+                fallbackConfirm('Logging in will CLEAR your current guest cart. Continue?').then(function(ok){
+                    if (!ok) {
+                        window.location.href = '@Url.Action("Index","Cart")';
+                    }
+                });
+            }
+
+            form.addEventListener('submit', function(e){
+                if (!(guestCount > 0) || window.__loginConfirmOk) return;
+                e.preventDefault();
+                fallbackConfirm('Logging in will CLEAR your current guest cart. Continue?').then(function(ok){
+                    if (ok) {
+                        window.__loginConfirmOk = true;
+                        if (typeof showSuccess === 'function') { showSuccess('Signing you in...', true); }
+                        form.submit();
+                    }
+                });
+            });
+        });
+    } catch(e) { }
+})();
+</script>
+<script>
+    function goBackToCart() {
+      if (document.referrer && document.referrer !== location.href) {
+        location.href = document.referrer;
+        return;
+      }
+
+        const candidates = [
+      '@Url.Action("Cart", "Order")',        /
+      '/Order/Cart',
+      '/'
+    ];
+
+      (async () => {
+        for (const u of candidates) {
+          try {
+            const r = await fetch(u, { method: 'HEAD', cache: 'no-store' });
+            if (r.ok) { location.href = u; return; }
+          } catch(e){}
+        }
+        location.href = '/';
+      })();
+    }
+</script>

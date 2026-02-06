@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Demo.Models.Order>
+
+@{
+    ViewData["Title"] = "Order Management";
+}
+
+<h2>Order Management</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Table No</th>
+            <th>Date</th>
+            <th>Status</th>
+            <th>Items</th>
+            <th>Total (RM)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var order in Model)
+    {
+        <tr>
+            <td>@order.OrderId</td>
+
+            <!-- Table No Update -->
+            <td>
+                <form asp-action="UpdateTable" method="post" class="d-flex">
+                    <input type="hidden" name="id" value="@order.OrderId" />
+                    <input type="text" name="tableNo" value="@order.TableNo" 
+                           class="form-control form-control-sm me-2" placeholder="Table #" />
+                    <button type="submit" class="btn btn-sm btn-primary">Update</button>
+                </form>
+            </td>
+
+            <!-- Order Date -->
+            <td>@order.CreatedAt.ToString("yyyy-MM-dd HH:mm")</td>
+
+            <!-- Status Update -->
+            <td>
+                <form asp-action="UpdateStatus" method="post" class="d-flex">
+                    <input type="hidden" name="id" value="@order.OrderId" />
+                    <select name="status" class="form-select form-select-sm me-2">
+                        <option value="Pending" selected="@(order.Status == "Pending")">Pending</option>
+                        <option value="In Progress" selected="@(order.Status == "In Progress")">In Progress</option>
+                        <option value="Completed" selected="@(order.Status == "Completed")">Completed</option>
+                    </select>
+                    <button type="submit" class="btn btn-sm btn-success">✔</button>
+                </form>
+            </td>
+
+            <!-- Order Items -->
+            <td>
+                <ul>
+                    @foreach (var line in order.Lines)
+                    {
+                        <li>@line.MenuItem.Name (x@line.Quantity) - RM @line.Price</li>
+                    }
+                </ul>
+            </td>
+
+            <!-- Total -->
+            <td>RM @order.Total.ToString("0.00")</td>
+
+            <!-- Actions -->
+            <td>
+                <a asp-action="Delete" asp-route-id="@order.OrderId" class="btn btn-sm btn-danger"
+                   onclick="return confirm('Are you sure you want to delete this order?');">
+                    🗑 Delete
+                </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

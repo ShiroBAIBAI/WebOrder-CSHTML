@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Demo.Models.MenuCategory>
+@{
+    ViewData["Title"] = "Categories";
+}
+<h2 class="mb-3">Categories</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create Category</a>
+</p>
+
+<table class="table table-hover align-middle" id="cat-table">
+    <thead>
+        <tr>
+            <th style="width:80px;">Order</th>
+            <th>Name</th>
+            <th style="width:120px;">Active</th>
+            <th style="width:180px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr draggable="true" data-id="@c.MenuCategoryId">
+                <td>@c.SortOrder</td>
+                <td>@c.Name</td>
+                <td>@(c.IsActive ? "true" : "false")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@c.MenuCategoryId" class="btn btn-sm btn-primary">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        let dragging;
+        document.querySelectorAll('#cat-table tbody tr').forEach(tr => {
+            tr.addEventListener('dragstart', e => dragging = tr);
+            tr.addEventListener('dragover', e => {
+                e.preventDefault();
+                const tbody = tr.parentElement;
+                const rect = tr.getBoundingClientRect();
+                const after = (e.clientY - rect.top) > rect.height / 2;
+                tbody.insertBefore(dragging, after ? tr.nextSibling : tr);
+            });
+        });
+        document.addEventListener('drop', () => {
+            const orders = {};
+            document.querySelectorAll('#cat-table tbody tr').forEach((tr, i) => {
+                orders[tr.dataset.id] = i + 1;
+            });
+            fetch('@Url.Action("Reorder")', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': document.querySelector("input[name='__RequestVerificationToken']")?.value
+                },
+                body: JSON.stringify(orders)
+            });
+        });
+    </script>
+}

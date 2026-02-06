@@ -1,0 +1,109 @@
+﻿@model Demo.Models.RegisterVM
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout";
+}
+<div class="row justify-content-center mt-4">
+    <div class="col-md-7 col-lg-6">
+        <div class="card shadow-sm">
+            <div class="card-body p-4">
+                <h3 class="mb-3 text-center">Create account</h3>
+                <form asp-action="Register" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <div class="input-group">
+                            <input asp-for="Email" class="form-control" />
+                            <button type="button" id="btnSendCode" class="btn btn-outline-primary">Send Code</button>
+                        </div>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Code" class="form-label"></label>
+                        <input asp-for="Code" class="form-control" />
+                        <span asp-validation-for="Code" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Confirm" class="form-label"></label>
+                        <input asp-for="Confirm" class="form-control" />
+                        <span asp-validation-for="Confirm" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Photo" class="form-label">Profile Photo (optional)</label>
+                        <input asp-for="Photo" class="form-control" />
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+
+                    <button class="btn btn-primary w-100">Register</button>
+                    <div class="text-center mt-3">
+                        <a asp-action="Login">Back to login</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        (function(){
+          const btn = document.getElementById('btnSendCode');
+          if(!btn) return;
+
+          async function send(){
+            const emailInput = document.querySelector('input[name="Email"]');
+            const email = (emailInput?.value || '').trim();
+            const fd = new FormData();
+            fd.append('email', email);
+            btn.disabled = true;
+            try{
+              const res = await fetch('@Url.Action("SendRegisterCode", "Account")', { method:'POST', body: fd });
+              const json = await res.json();
+              alert(json.message || (json.ok ? 'Verification code sent.' : 'Failed to send.'));
+              if(json.ok){
+                cooldown(60); // 60s cooldown
+              }else{
+                btn.disabled = false;
+              }
+            }catch(e){
+              alert('Network error.');
+              btn.disabled = false;
+            }
+          }
+
+          function cooldown(sec){
+            let left = sec;
+            const orig = btn.textContent;
+            const timer = setInterval(()=>{
+              left--;
+              btn.textContent = `Send Code (${left}s)`;
+              if(left<=0){
+                clearInterval(timer);
+                btn.textContent = orig;
+                btn.disabled = false;
+              }
+            }, 1000);
+            btn.textContent = `Send Code (${left}s)`;
+          }
+
+          btn.addEventListener('click', send);
+        })();
+    </script>
+}
+
